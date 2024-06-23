@@ -1,0 +1,22 @@
+# You need to register wakatime and get the token from https://wakatime.com/settings/account
+name: Wakatime-Weekly
+
+on:
+  # Schedule updates (each day)
+  schedule: [{cron: "0 0 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          COMMIT_MESSAGE: Updated Stats
+          SHOW_TIME: true
+          #LANG_COUNT: 5
+          #IGNORED_LANGUAGES: HTML CSS
