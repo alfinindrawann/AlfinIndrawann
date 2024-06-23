@@ -1,0 +1,26 @@
+# You need to register wakatime and get the token from https://wakatime.com/settings/account
+name: Wakatime-general
+on:
+  # Schedule updates (each day)
+  schedule: [{cron: "0 0 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: AlfinIndrawan/metrics@master
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY}}
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, languages, os
+          # Ignore languages below
+          plugin_wakatime_languages_ignored: html, css, blade template, yaml, markdown, cocoa
+          plugin_wakatime_languages_other: no
+          plugin_wakatime_repositories_visibility: all
+          # change username here
+          plugin_wakatime_user: AlfinIndrawann
