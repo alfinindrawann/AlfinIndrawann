@@ -26,6 +26,15 @@
 ###
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 15 June 2024 - To: 22 June 2024
+
+TypeScript     8 hrs 28 mins   ██████████████████████▒░░   89.76 %
+Figma Design   33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+JSON           24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+```
+
 <!--END_SECTION:waka-->
 
 ###
