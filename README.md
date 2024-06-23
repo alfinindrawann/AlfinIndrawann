@@ -9,7 +9,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AlfinIndrawan/AlfinIndrawan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AlfinIndrawann/AlfinIndrawann/output/snake.svg" alt="Snake animation" />
 
 ###
 
