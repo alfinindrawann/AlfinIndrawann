@@ -39,7 +39,7 @@ JSON           24 mins         █░░░░░░░░░░░░░░░�
 
 ###
 
-<p align="center"><img src="/metrics.plugin.wakatime.svg" alt="Metrics" width="100%"></p>
+
 
 ###
 
