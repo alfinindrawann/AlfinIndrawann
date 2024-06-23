@@ -22,5 +22,5 @@ jobs:
           plugin_wakatime_languages_ignored: html, css, blade template, yaml, markdown, cocoa
           plugin_wakatime_languages_other: no
           plugin_wakatime_repositories_visibility: all
-          # change username here
+          # change username her
           plugin_wakatime_user: AlfinIndrawann
