@@ -25,4 +25,4 @@ jobs:
           plugin_wakatime_languages_other: no
           plugin_wakatime_repositories_visibility: all
           # change username her
-          plugin_wakatime_user: AlfinIndrawann
+          plugin_wakatime_user: AlfinIndrawan
