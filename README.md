@@ -37,17 +37,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif"  />
-</div>
-
-###
-
-<p align="center"><img src="/metrics.plugin.wakatime.svg" alt="Metrics" width="100%"></p>
-
-###
-
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="100%"></p>
-
-###
