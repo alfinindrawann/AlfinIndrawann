@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is alfin and I'm a ..., from ....</p>
 
 ###
 
@@ -35,5 +35,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
+
+###
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ###
