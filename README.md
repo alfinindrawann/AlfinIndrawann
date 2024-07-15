@@ -39,6 +39,17 @@
 ###
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 07 July 2024 - To: 14 July 2024
+
+Figma Design   2 hrs 46 mins   █████████████░░░░░░░░░░░░   52.54 %
+TypeScript     1 hr 29 mins    ███████░░░░░░░░░░░░░░░░░░   28.41 %
+Swift          25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+Other          21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+Objective-C    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+```
+
 <!--END_SECTION:waka-->
 
 ###
